@@ -1,0 +1,13 @@
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-3-State-Database\bin\Debug\StateData.mdf
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-3-State-Database\bin\Debug\StateData_log.ldf
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-3-State-Database\bin\Debug\DSchiefer-Lab-3-State-Database.exe.config
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-3-State-Database\bin\Debug\DSchiefer-Lab-3-State-Database.exe
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-3-State-Database\bin\Debug\DSchiefer-Lab-3-State-Database.pdb
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-3-State-Database\obj\Debug\DSchiefer-Lab-3-State-Database.csproj.AssemblyReference.cache
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-3-State-Database\obj\Debug\DSchiefer_Lab_3_State_Database.mainFrm.resources
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-3-State-Database\obj\Debug\DSchiefer_Lab_3_State_Database.Properties.Resources.resources
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-3-State-Database\obj\Debug\DSchiefer-Lab-3-State-Database.csproj.GenerateResource.cache
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-3-State-Database\obj\Debug\DSchiefer-Lab-3-State-Database.csproj.CoreCompileInputs.cache
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-3-State-Database\obj\Debug\DSchiefer-Lab-3-State-Database.exe
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-3-State-Database\obj\Debug\DSchiefer-Lab-3-State-Database.pdb
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-3-State-Database\obj\Debug\DSchiefer_Lab_3_State_Database.detailFrm.resources
