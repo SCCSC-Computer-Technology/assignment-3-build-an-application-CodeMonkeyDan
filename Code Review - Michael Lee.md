@@ -1,0 +1,1 @@
+I really like how detailed your interface here is. The filter options are fairly detailed and easy to use as well. Looking in the code, I noticed a good use of comments (I could quickly tell what's going on). Testing out basic functions like deleting and adding elements worked perfectly. Several programs I tried were unable to do this, so nice job. Overall, great program.
