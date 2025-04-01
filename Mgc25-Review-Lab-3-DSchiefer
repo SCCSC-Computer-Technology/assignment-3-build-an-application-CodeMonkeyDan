@@ -1,0 +1,10 @@
+After reviewing design files for this solution I find the layout, text, and buttons of the windows forms are well thought out and 
+easy to read. I especially like the backing color and the simple layout of the forms. I also like the choice of font style that 
+makes the program feel like a finished product. When testing the program everything appears to be working as it should. When 
+looking at the .cs files I see the code and button methods are mostly tabbed/laid out in an easy to read list with a large 
+amount of comments to understand the methods. For the main form .cs file I like the addition of the thank you message that 
+appears and the extra error checking to help prevent issues. In the Details .cs file I really liked how the class is passed 
+to the fom’s code instead of calling the database through other means. I can definitely see the difference in how much shorter 
+the details code is compared to mine using Linq. The only things I would change in this solution is varying the font in the
+Details form to make it easier to read, and including a comment of name, assignment, class, etc. that helps clarify whose project 
+it is in the main .cs code (just in case). 
